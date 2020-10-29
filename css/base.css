@@ -1,0 +1,15 @@
+
+
+/* Moblie  width < 740px*/
+
+@media only screen and (max-width: 46.1875em) {}
+
+
+/* table: width >= 740px anhd width < 1024px  */
+
+@media only screen and (min-width: 46.25em) (max-width: 63.9375em) {}
+
+
+/* PC : width >= 1024px */
+
+@media only screen and (min-width: 64em)
